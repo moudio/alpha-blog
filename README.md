@@ -24,7 +24,7 @@ Additional description about the project and its features.
 - Twitter: [@mouhamadiouf](https://twitter.com/mouhamadiouf)
 - Linkedin: [Mouhadiouf](https://linkedin.com/mouhadiouf)
 
-##### Prerequisites
+## Prerequisites
 
 The setups steps expect following tools installed on the system.
 
