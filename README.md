@@ -2,7 +2,7 @@
 
 > My portfolio, showcasing my main work
 
-![screenshot](./src/pictures/portfolio_screenshot.png)
+![screenshot](./app/assets/images/app_screenshot.png)
 
 Additional description about the project and its features.
 
@@ -28,4 +28,3 @@ Additional description about the project and its features.
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
