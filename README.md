@@ -32,6 +32,10 @@ The setups steps expect following tools installed on the system.
 - Ruby [2.4.0](https://github.com/organization/project-name/blob/master/.ruby-version#L1)
 - Rails [5.0.2](https://github.com/organization/project-name/blob/master/Gemfile#L12)
 
+ ## Possible Future Improvements 
+ - Create an admin dashboard to manage users 
+ - Allow users to add pictures and videos to their posts
+
 ##### 1. Check out the repository
 
 ```bash
